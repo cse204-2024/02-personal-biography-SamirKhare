@@ -1,4 +1,4 @@
 # Starter HTML
-This repository provides a blank index.html file. 
+Samir Khare
 
-Before submitting, replace the text in this README file with your name and a brief description of your work (just a sentence or two will do).
+I created a biography for Von Miller using the basic HTML tags that we learned in class on Tuesday.
